@@ -1,7 +1,7 @@
 # RC Car Controller
 AndroidSDK MainActivity code to control  a specific Bluetooth UUID for Computer Engineering Programming II Course
 
-# What was learned
+## What was learned
 Basic AndroidSDK
 * Widgets
 * Toasts
@@ -15,7 +15,7 @@ Bluetooth
 * BluetoothSockets
 * BluetoothDiscovery
 
-# Things I would Improve
+## Things I would Improve
 * UI Design
 * Functionality (occasionally crash)
 * More Feedback
