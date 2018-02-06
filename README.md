@@ -2,7 +2,7 @@
 AndroidSDK MainActivity code to control  a specific Bluetooth UUID for Computer Engineering Programming II Course
 
 ## What was learned
-### Basic AndroidSDK
+### AndroidSDK
 * Widgets
 * Toasts
 * Intents
