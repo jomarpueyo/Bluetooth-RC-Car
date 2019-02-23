@@ -1,4 +1,4 @@
-# RC Car Controller
+# Bluetooth RC Car
 AndroidSDK MainActivity code to control  a specific Bluetooth UUID for Computer Engineering Programming II Course
 
 ## What was learned
